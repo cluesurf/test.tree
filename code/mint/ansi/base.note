@@ -1,0 +1,12 @@
+
+load ../../view/tint
+  find make
+    save make-zone
+
+task make-mint
+  hide true
+
+  save zone, call make-zone
+
+task mint
+  fold make-mint

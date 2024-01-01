@@ -11,8 +11,8 @@ tree red
   hook fuse
     bind text-fill, term red
 
-task mint
-  fold mint-zone-text
+task make
+  fold make-zone
     bind zone, loan test-case
 
 zone test-case
