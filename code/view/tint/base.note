@@ -3,6 +3,18 @@ tree gray
   hook fuse
     bind text-fill, term gray
 
+tree green
+  hook fuse
+    bind text-fill, term green
+
+tree red
+  hook fuse
+    bind text-fill, term red
+
+task mint
+  fold mint-zone-text
+    bind zone, loan test-case
+
 zone test-case
   take side, like size
     base 0
@@ -45,7 +57,7 @@ zone test-band
   zone text, text <\>>
     fuse gray
   zone text, text <\n>
-  walk loan band/nest
+  walk list, loan band/nest
     hook link
       zone test-case
         bind case, loan link
