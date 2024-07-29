@@ -6,13 +6,9 @@
 <br/>
 <br/>
 
+<h3 align='center'>test.tree</h3>
 <p align='center'>
-  <img src='https://github.com/termsurf/buck.tree/blob/make/view/buck.svg?raw=true' height='192'>
-</p>
-
-<h3 align='center'>buck.tree</h3>
-<p align='center'>
-  The BaseTree Testing Library
+  The NoteTree Testing Library
 </p>
 
 <br/>
